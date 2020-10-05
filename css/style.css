@@ -952,15 +952,15 @@ h6,
   position: relative;
 }
 .skill__box-item__circle--1 circle:last-child {
-  stroke-dashoffset: calc(570 - 570 * 78 / 100);
+  stroke-dashoffset: calc(570 - 570 * 75 / 100);
   stroke: currentColor;
 }
 .skill__box-item__circle--2 circle:last-child {
-  stroke-dashoffset: calc(570 - 570 * 59 / 100);
+  stroke-dashoffset: calc(570 - 570 * 70 / 100);
   stroke: currentColor;
 }
 .skill__box-item__circle--3 circle:last-child {
-  stroke-dashoffset: calc(570 - 570 * 81 / 100);
+  stroke-dashoffset: calc(570 - 570 * 50 / 100);
   stroke: currentColor;
 }
 .skill__box-item__circle--4 circle:last-child {
