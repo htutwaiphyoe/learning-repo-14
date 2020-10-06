@@ -834,7 +834,7 @@ h6,
 .profile__icon {
   width: 4rem;
   height: 4rem;
-  fill: currentColor;
+  fill: var(--color-light);
   transition: all 0.2s;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
