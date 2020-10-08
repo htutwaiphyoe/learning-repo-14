@@ -705,6 +705,21 @@ h6,
   -moz-transition: all 0.5s;
   -ms-transition: all 0.5s;
   -o-transition: all 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile__name {
+  font-size: 6rem;
+  font-weight: 400;
+  color: var(--background);
+  padding: 0 1rem;
+  background: linear-gradient(
+    to bottom,
+    rgba(46, 55, 68, 0.4),
+    rgba(46, 55, 68, 0.6),
+    rgba(28, 30, 33, 0.8)
+  );
 }
 @media only screen and (max-width: 62em) {
   .header {
@@ -1031,7 +1046,7 @@ h6,
   justify-content: center;
   align-items: center;
   color: var(--background);
-  clip-path: polygon(0 0, 100% 20vh, 100% 100vh, 0 80vh);
+  /* clip-path: polygon(0 0, 100% 20vh, 100% 100vh, 0 80vh); */
 }
 
 .statistics__box {
