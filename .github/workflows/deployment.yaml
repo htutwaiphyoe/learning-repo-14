@@ -21,4 +21,4 @@ jobs:
           aws s3 sync \
             --delete \
             --region ap-southeast-1 \
-            natours-travel s3://natours-travel
+            . s3://natours-travel
