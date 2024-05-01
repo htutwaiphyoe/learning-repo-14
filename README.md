@@ -14,3 +14,5 @@ Website: [http://natours-travel.s3-website-ap-southeast-1.amazonaws.com/]
 
 - CI/CD with Github actions
 - S3 static website
+
+[Reference](https://medium.com/@olayinkasamuel44/how-to-deploy-a-static-website-to-s3-bucket-using-github-actions-ci-script-fa1acc932fbd)
