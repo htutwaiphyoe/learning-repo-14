@@ -2,6 +2,8 @@
 
 Credit to **Jonas Schmedtmann**
 
+Website: [http://natours-travel.s3-website-ap-southeast-1.amazonaws.com/]
+
 ## Technologies
 
 - HTML
@@ -10,4 +12,5 @@ Credit to **Jonas Schmedtmann**
 
 ## Features
 
-- CSS3
+- CI/CD with Github actions
+- S3 static website
